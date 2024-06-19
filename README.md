@@ -1,4 +1,4 @@
-### SAFAL School Server Installer for Ubuntu Linux Operating Systems
+### SAFAL School Server Installer for Ubuntu Linux Operating System
 
 This installer is compatible with the following versions:
 
